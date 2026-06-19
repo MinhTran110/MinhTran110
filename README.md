@@ -4,7 +4,7 @@ Sinh viên Công nghệ Thông tin với định hướng chuyên sâu vào Trí
 
 ---
 ## 📫 Contact
-- **LinkedIn:** [Minh Tran]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/minh-tran-1451ba337/))
+- **LinkedIn:** [Minh Tran](https://www.linkedin.com/in/minh-tran-1451ba337/)
 - **Email:** tranqm2006@gmail.com
 
 ## 🛠️ Skills & Technologies
